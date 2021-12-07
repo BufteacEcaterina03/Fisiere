@@ -1,0 +1,20 @@
+Nume	Prenume		Nota	Limba
+Andronic , Aura-Zlata ,9 f   
+Babalau , Cristian ,2 e   
+Biliciuc , AnaMaria ,3 f   
+Bufteac , Ecaterina ,4 f   
+Cebotari , Anastasia ,5 f   
+Codreanu , Alexandru ,4 e   
+Cordun , Andreea ,4 f   
+Darii , Anastasia ,3 e   
+Dubenco , Alexandra ,4 f   
+Grozavu , David ,3 e   
+Mandrescu , Stefan ,1 e   
+Moscvin , Andreea ,4 e   
+Radetkaia , Ecaterina ,4 f   
+Sanduleac , Loredana ,1 f   
+Sinigribov , Serghei ,3 f   
+Stici , Vasile ,3 f   
+Tambur , Ana-Maria ,3 e   
+Tihonschi , Alexandra ,3 f   
+Media celor 18 studenti este 3.5
