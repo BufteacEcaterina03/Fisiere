@@ -1,0 +1,20 @@
+Nume	Prenume		Nota	Limba
+Andronic  Aura-Zlata, 9 limba franceza   
+Babalau  Cristian, 9 limba engleza   
+Biliciuc  AnaMaria, 10 limba franceza   
+Bufteac  Ecaterina, 10 limba franceza   
+Cebotari  Anastasia, 9 limba franceza   
+Codreanu  Alexandru, 9 limba engleza   
+Cordun  Andreea, 9 limba franceza   
+Darii  Anastasia, 9 limba engleza   
+Dubenco  Alexandra, 9 limba franceza   
+Grozavu  David, 9 limba engleza   
+Mandrescu  Stefan, 7 limba engleza   
+Moscvin  Andreea, 9 limba engleza   
+Radetkaia  Ecaterina, 10 limba engleza   
+Sanduleac  Loredana, 8 limba franceza   
+Sinigribov  Serghei, 8 limba franceza   
+Stici  Vasile, 9 limba franceza   
+Tambur  Ana-Maria, 9 limba engleza   
+Tihonschi  Alexandra, 8 limba franceza   
+Media celor 18 studenti este 8.88888888888889
